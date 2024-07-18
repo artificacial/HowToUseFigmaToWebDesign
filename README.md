@@ -4,7 +4,7 @@
 
 ## Tabla de Contenidos 📚
 
-1. [Introducción](#introducción)
+1. [Introducción](#https://www.notion.so/Introducci-n-63791ab36a4241cc97172442347548a9?pvs=4)
 2. [Interfaz de Usuario](#interfaz-de-usuario)
 3. [Fundamentos del diseño en Figma](#)
 4. [Componentes y variantes](#)
