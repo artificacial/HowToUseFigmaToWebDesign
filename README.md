@@ -17,8 +17,6 @@
 
 Figma es una herramienta de diseño web basada en la nube que permite a los diseñadores crear, prototipar y colaborar en tiempo real. Ya seas un principiante o un diseñador experimentado, Figma ofrece una interfaz intuitiva y una amplia gama de funcionalidades para mejorar tu flujo de trabajo. 🌟
 
-![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)
-
 ## Aprenderás:
 
 * Los fundamentos del diseño web
